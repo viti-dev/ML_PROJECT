@@ -1,0 +1,15 @@
+artifact_uri: file:///home/in2ituser/PythonProjects/Machine_learning_Project/mlruns/0/6bb46f74ef6a467ab5a70314eb819b61/artifacts
+end_time: 1687608804719
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6bb46f74ef6a467ab5a70314eb819b61
+run_name: caring-sloth-854
+run_uuid: 6bb46f74ef6a467ab5a70314eb819b61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687608804644
+status: 4
+tags: []
+user_id: in2ituser
